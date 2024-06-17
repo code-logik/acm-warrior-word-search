@@ -117,6 +117,19 @@ U 3 5 THETHETHETHETH
 ![Adaptation Example](docs/example.png)  
 <br><br>
 
-## Source Build
+## Source Build  
+Prerequisites:  
+- Microsoft SQL Server
+- Microsoft SQL Server Management Studio (SSMS)
+- Visual Studio 2022<br><br>
+
+To build from source code:  
+1. Clone the main branch to your local machine.
+2. Navigate to the src directory.
+3. Execute the file ACMFinalExamProblem_SQL.sql with Microsoft SQL Server Management Studio (SSMS).
+4. Navigate to the ACMFinalExamProblem subdirectory.
+5. Open the ACMFinalExamProblem.sln in Visual Studio 2022.
+6. Build Solution using *Release* and *Any CPU* settings.
+7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.
 
 ---
