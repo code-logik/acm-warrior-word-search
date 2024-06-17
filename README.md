@@ -23,7 +23,8 @@ Northeastern State University
 ## Table of Contents  
 1. [Requirements](#requirements)
 2. [Rubric](#rubric)
-3. [Search Cross Word Problem](#search-cross-word-problem)<br><br>
+3. [Search Cross Word Problem](#search-cross-word-problem)
+4. [Source Build](#source-build)<br><br>
 
 ## Requirements  
 Adapt the ACM Search Cross Word Problem to incorporate a Graphic User Interface and Puzzle Database to demonstrate comprehensive mastery of CS 4253 Windows Programming.  
@@ -116,6 +117,6 @@ U 3 5 THETHETHETHETH
 ![Adaptation Example](docs/example.png)  
 <br><br>
 
-## test
+## Source Build
 
 ---
