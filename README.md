@@ -43,6 +43,8 @@ Code and User Interface Criteria:
 ## Search Cross Word Problem  
 (*Difficulty Level*: Medium)  
 <br>
+![Word Search](docs/wordsearch.jpg)  
+<br>
 A word search puzzle is a grid of letters where your challenge is to find selected words as formed
 by consecutive letters in a line along the rows, columns, or diagonals of the grid. Tougher word
 searches also allow words in the grid to be forwards or backwards in any of those directions. In
@@ -94,6 +96,8 @@ CODETRY
 AGE  
 THETHETHETHETH  
 ```
+[]()  
+
 **Sample Output:**  
 ```
 Word search puzzle #1:  
@@ -106,6 +110,12 @@ Word search puzzle #2:
 D 1 4 AGE  
 U 3 5 THETHETHETHETH  
 ```
+[]()  
 
+**Adaptation Example:**  
+![Adaptation Example](docs/example.png)  
+<br><br>
+
+## test
 
 ---
