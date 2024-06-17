@@ -4,11 +4,12 @@
 [![Static Badge](https://img.shields.io/badge/License-FFFFFF?style=flat&logoColor=%23FFFFFF&label=MIT&labelColor=%23750014&color=%23111111)](https://github.com/code-logik/acm-warrior-word-search?tab=MIT-1-ov-file#)
 [![Static Badge](https://img.shields.io/badge/Markdown-FFFFFF?style=flat&logo=markdown&logoColor=%23FFFFFF&labelColor=%23111111&color=%23499BEA)](https://commonmark.org/)
 [![Static Badge](https://img.shields.io/badge/https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat&label=README&labelColor=%23111111)](https://github.com/RichardLitt/standard-readme)
-[![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%23FFFFFF&labelColor=%23111111&color=%2331A8FF)](https://www.adobe.com/products/photoshop.html)
+[![Static Badge](https://img.shields.io/badge/Microsoft_SQL_Server-white?style=flat&logo=microsoftsqlserver&logoColor=%23FFFFFF&labelColor=%23111111&color=%23CC2927)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![Static Badge](https://img.shields.io/badge/Visual_Studio_2022-FFFFFF?style=flat&logo=visualstudio&logoColor=%23FFFFFF&labelColor=%23111111&color=%235C2D91)](https://visualstudio.microsoft.com/)
-[![Static Badge](https://img.shields.io/badge/.NET_Framework_4.7.2-white?style=flat&logo=dotnet&logoColor=%23FFFFFF&labelColor=%23111111&color=%23512BD4)](https://dotnet.microsoft.com/)  
+[![Static Badge](https://img.shields.io/badge/.NET_Framework_4.7.2-white?style=flat&logo=dotnet&logoColor=%23FFFFFF&labelColor=%23111111&color=%23512BD4)](https://dotnet.microsoft.com/)
 [![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=flat&logo=csharp&logoColor=%23FFFFFF&labelColor=%23111111&color=%23512BD4)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Static Badge](https://img.shields.io/badge/XAML-%23FFFFFF?style=flat&logo=xaml&logoColor=%23FFFFFF&labelColor=%23111111&color=%230C54C2)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/xaml-in-wpf?view=netframeworkdesktop-4.8)
+[![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%23FFFFFF&labelColor=%23111111&color=%2331A8FF)](https://www.adobe.com/products/photoshop.html)
 
 ACM International Collegiate Programming Contest Adaptation  
 Windows Programming Final Exam Alternative  
@@ -24,7 +25,9 @@ Northeastern State University
 1. [Requirements](#requirements)
 2. [Rubric](#rubric)
 3. [Search Cross Word Problem](#search-cross-word-problem)
-4. [Source Build](#source-build)<br><br>
+4. [Source Build](#source-build)
+5. [Usage](#usage)
+6. [License](#license)<br><br>
 
 ## Requirements  
 Adapt the ACM Search Cross Word Problem to incorporate a Graphic User Interface and Puzzle Database to demonstrate comprehensive mastery of CS 4253 Windows Programming.  
@@ -130,6 +133,44 @@ To build from source code:
 4. Navigate to the ACMFinalExamProblem subdirectory.
 5. Open the ACMFinalExamProblem.sln in Visual Studio 2022.
 6. Build Solution using *Release* and *Any CPU* settings.
-7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.
+7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.<br><br>
+
+## Usage  
+How to use ACM Warrior Word Search:
+1. Double-click ACMFinalExamProblem.exe to open the ACM Warrior Word Search program.
+2. Click on any word in the "Words" section to find and highlight it in the puzzle grid.<br>The direction, row, and column of the first letter, along with the word, will be listed in the "Output" section.
+3. To close the ACM Warrior Word Search program, simply click on **EXIT SEARCH**.<br><br>
+
+Buttons:  
+- Use the **PREV** and **NEXT** buttons to navigate the puzzles in the Puzzle Database.
+- Use the **RAND** button to choose a puzzle from the Puzzles Database at random.
+- Use the **RESET** button to clear the highlighted words in the puzzle grid.<br><br>
+
+## License  
+ACM Warrior Word Search is licensed under the [MIT License](https://github.com/code-logik/acm-warrior-word-search?tab=MIT-1-ov-file#).<br>
+```
+MIT License
+
+Copyright (c) 2024 Mark Sarasua, Jr. <mark.sarasua@code-logik.com> www.code-logik.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
+
