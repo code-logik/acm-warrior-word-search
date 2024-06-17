@@ -137,12 +137,14 @@ To build from source code:
 
 ## Usage  
 How to use ACM Warrior Word Search:
-- Click on any word in the "Words" section to find and highlight it in the puzzle grid.
-- The direction, row, and column of the first letter, along with the word, will be listed in the "Output" section.
+1. Double-click ACMFinalExamProblem.exe to open the ACM Warrior Word Search program.
+2. Click on any word in the "Words" section to find and highlight it in the puzzle grid.<br>The direction, row, and column of the first letter, along with the word, will be listed in the "Output" section.
+3. To close the ACM Warrior Word Search program, simply click on **EXIT SEARCH**.<br><br>
+
+Buttons:  
 - Use the **PREV** and **NEXT** buttons to navigate the puzzles in the Puzzle Database.
 - Use the **RAND** button to choose a puzzle from the Puzzles Database at random.
-- Use the **RESET** button to clear the highlighted words in the puzzle grid.
-- To close the ACM Warrior Word Search program, simply click on **EXIT SEARCH**.<br><br>
+- Use the **RESET** button to clear the highlighted words in the puzzle grid.<br><br>
 
 ## License  
 ACM Warrior Word Search is licensed under the [MIT License](https://github.com/code-logik/acm-warrior-word-search?tab=MIT-1-ov-file#).<br>
