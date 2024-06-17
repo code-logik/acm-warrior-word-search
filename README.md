@@ -21,6 +21,9 @@ Northeastern State University
 <br>
 <a href="https://code-logik.com/CS4253/FinalExam/ACM_Final_Exam_Problem.mp4" target="_blank">ACM Warrior Word Search Demo</a>  
 <br>
+![ACM Warrior Word Search](docs/screenshot.png)
+<br><br>
+
 ## Table of Contents  
 1. [Requirements](#requirements)
 2. [Rubric](#rubric)
