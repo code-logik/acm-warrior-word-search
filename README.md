@@ -1,7 +1,7 @@
 ---
 
 # ACM Warrior Word Search
-[![Static Badge](https://img.shields.io/badge/License-FFFFFF?style=flat&logoColor=%23FFFFFF&label=MIT&labelColor=%23750014&color=%23111111)](https://github.com/code-logik/the-willow-tree-oms?tab=MIT-1-ov-file#)
+[![Static Badge](https://img.shields.io/badge/License-FFFFFF?style=flat&logoColor=%23FFFFFF&label=MIT&labelColor=%23750014&color=%23111111)](https://github.com/code-logik/acm-warrior-word-search#)
 [![Static Badge](https://img.shields.io/badge/Markdown-FFFFFF?style=flat&logo=markdown&logoColor=%23FFFFFF&labelColor=%23111111&color=%23499BEA)](https://commonmark.org/)
 [![Static Badge](https://img.shields.io/badge/https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat&label=README&labelColor=%23111111)](https://github.com/RichardLitt/standard-readme)
 [![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%23FFFFFF&labelColor=%23111111&color=%2331A8FF)](https://www.adobe.com/products/photoshop.html)
