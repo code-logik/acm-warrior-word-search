@@ -25,7 +25,9 @@ Northeastern State University
 1. [Requirements](#requirements)
 2. [Rubric](#rubric)
 3. [Search Cross Word Problem](#search-cross-word-problem)
-4. [Source Build](#source-build)<br><br>
+4. [Source Build](#source-build)
+5. [Usage](#usage)
+6. [License](#license)<br><br>
 
 ## Requirements  
 Adapt the ACM Search Cross Word Problem to incorporate a Graphic User Interface and Puzzle Database to demonstrate comprehensive mastery of CS 4253 Windows Programming.  
@@ -131,6 +133,42 @@ To build from source code:
 4. Navigate to the ACMFinalExamProblem subdirectory.
 5. Open the ACMFinalExamProblem.sln in Visual Studio 2022.
 6. Build Solution using *Release* and *Any CPU* settings.
-7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.
+7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.<br><br>
+
+## Usage  
+How to use ACM Warrior Word Search:
+- Click on any word in the "Words" section to find and highlight it in the puzzle grid.
+- The direction, row, and column of the first letter, along with the word, will be listed in the "Output" section.
+- Use the **PREV** and **NEXT** buttons to navigate the puzzles in the Puzzle Database.
+- Use the **RAND** button to choose a puzzle from the Puzzles Database at random.
+- Use the **RESET** button to clear the highlighted words in the puzzle grid.
+- To close the ACM Warrior Word Search program, simply click on **EXIT SEARCH**.<br><br>
+
+## License  
+ACM Warrior Word Search is licensed under the [MIT License](https://github.com/code-logik/acm-warrior-word-search?tab=MIT-1-ov-file#).<br>
+```
+MIT License
+
+Copyright (c) 2024 Mark Sarasua, Jr. <mark.sarasua@code-logik.com> www.code-logik.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
+
