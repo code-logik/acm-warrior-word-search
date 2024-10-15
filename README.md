@@ -135,8 +135,9 @@ To build from source code:
 3. Execute the file ACMFinalExamProblem_SQL.sql with Microsoft SQL Server Management Studio (SSMS).
 4. Navigate to the ACMFinalExamProblem subdirectory.
 5. Open the ACMFinalExamProblem.sln in Visual Studio 2022.
-6. Build Solution using *Release* and *Any CPU* settings.
-7. Navigate to the Release folder to find the ACMFinalExamProblem.exe.<br><br>
+6. Update line 18 in the [Database.cs](src/ACMFinalExamProblem/Database.cs) file with your SQL Server Name.
+7. Build Solution using *Release* and *Any CPU* settings.
+8. Navigate to the Release folder to find the ACMFinalExamProblem.exe.<br><br>
 
 ## Usage  
 How to use ACM Warrior Word Search:
